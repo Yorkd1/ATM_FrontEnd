@@ -6,7 +6,7 @@ To run the app locally, clone the repository, install the dependencies using npm
 
 The purpose of this app is to simulate basic ATM operations such as login, deposits, withdrawals, and checking account balances. It’s structured to allow future integration with backend APIs and persistent storage.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/dkvva5B_Z1s)
 
 # Web Pages
 
@@ -34,7 +34,7 @@ Each of these pages is rendered dynamically based on internal component state an
 # Useful Websites
 
 * [React Documentation](https://reactjs.org/)
-* [Tailwind CSS Docs](https://tailwindcss.com/)
+* [Tailwind CSS Documentation](https://tailwindcss.com/)
 
 # Future Work
 
